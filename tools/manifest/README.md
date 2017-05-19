@@ -1,0 +1,1 @@
+Manifests from get_json.php go here.
