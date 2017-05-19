@@ -8,6 +8,7 @@
 	All scripts are PHP CLI.
 
 ## INSTALLATION:
+* Copy config/swc_wiki_config.demo.php to config/swc_wiki_config.php
 * Edit values in: config/swc_wiki_config.php
 *Note:*
 Without Wiki Bot account, you still can work file-based with the input/output directories.
